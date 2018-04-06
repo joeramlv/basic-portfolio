@@ -1,0 +1,60 @@
+body {
+    width: 960px;
+    background: url(file:///Users/napkins/Downloads/dust_scratches/dust_scratches.png)
+}
+
+#nametag {
+    background-color: #4aaaa5;
+    width: 150px;
+    height: 35px;
+    position: relative;
+    left: 177px;
+    float: left;
+    font-size: 30px;
+    color: #ffffff;
+
+
+}
+
+nav {
+    float: right;
+    position: relative;
+    bottom: 0;
+
+}
+
+.rapper{
+    background-color: #ffffff;
+    clear: left;
+    width: 800px;
+    height: 600px;
+    border-style: solid solid;
+    border-color: #666666;
+    margin-left: 177px;
+}
+
+#aboutme {
+    border-bottom: solid;
+    border-color: #cccccc;
+}
+
+#img {
+    float: left;
+    display: inline;
+    width: 200px;
+    height: 125px;
+    padding: 15px;
+}
+
+#aboutme {
+    font-size: 30px;
+    color: #4aaaa5;
+}
+
+#foot {
+    text-align: center;
+    background-color: #ffffff;
+    
+}
+
+
